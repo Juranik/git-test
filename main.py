@@ -1,1 +1,1 @@
-print("wtf?")
+print("test naxyi?")
