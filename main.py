@@ -1,1 +1,1 @@
-print("test naxyi?")
+print("Проверка Гита")
